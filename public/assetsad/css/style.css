@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=BioRhyme:wght@200..800&display=swap");
+h1,
+h2,
+h3,
+.fw-bold {
+    font-weight: 500 !important;
+    font-family: "BioRhyme";
+}
+
+h4,
+h5,
+h6,
+.fw-medium {
+    font-weight: 300 !important;
+    font-family: "BioRhyme";
+}
+
+.right {
+    text-align: right;
+}
+.dashed {
+    border: dashed;
+}
+.barcode {
+    font-family: "Libre Barcode 39";
+    font-size: 60px;
+}
